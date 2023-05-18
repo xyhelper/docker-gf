@@ -38,7 +38,8 @@ docker run --rm -it \
 docker run --rm -it \
     -v "$(pwd):/build" \
     -w /build \
-    -p 8000:8000 \
+    -e TZ=Asia/Shanghai \
+    --network host \
     xyhelper/gf:latest \
     gf run main.go
 ```
