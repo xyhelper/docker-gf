@@ -45,3 +45,7 @@ docker run --rm -it \
     xyhelper/gf:latest \
     gf run main.go
 ```
+
+## 广告位
+
+提供`8K token`的gpt3.5 api，欢迎体验：[https://chat.xyhelper.com.cn](https://chat.xyhelper.com.cn)
