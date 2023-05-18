@@ -2,9 +2,11 @@
 
 Docker image for [gf](https://github.com/gogf/gf/releases) framework.
 
+DockerHub: [xyhelper/gf](https://hub.docker.com/r/xyhelper/gf)
+
 ## Usage
 
-可以用于自动化构建，也可以用于本地开发。可以通过指定版本号来快速切换版本。应该也可以解决在macOS上打开文件数过多的问题。
+可以用于自动化构建，也可以用于本地开发。可以通过指定版本号来快速切换版本。应该也可以解决在 macOS 上打开文件数过多的问题。
 
 ### Pull image
 
